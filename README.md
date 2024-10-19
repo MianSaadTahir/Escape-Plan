@@ -18,10 +18,9 @@
 - **Tank and Bullet Mechanics**: Engage in combat against tanks while avoiding incoming fire.
 
 ## Screenshots
-![Screenshot](assets/1.PNG)
-![Screenshot](assets/2.PNG)
-![Screenshot](assets/3.PNG)
-
+<img src="assets/1.PNG" alt="Screenshot" width="75%">
+<img src="assets/2.PNG" alt="Screenshot" width="75%">
+<img src="assets/3.PNG" alt="Screenshot" width="75%">
 ## Usage
 1. Clone the repository:
    `git clone https://github.com/miansaadtahir/EscapePlan.git`
