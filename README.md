@@ -1,6 +1,6 @@
-# Student Management System
+# Escape Plan
 
-**Student Management System** is a command-line interface (CLI) based application developed in C++. It allows two types of users—Admin and Student—to interact with the system. Admins can efficiently manage student records by adding, removing, and viewing student information, as well as updating their class marks, attendance, and fee status. Students can view their class subjects, marks, attendance, and fee status. This system provides a streamlined approach to student management, enhancing organizational efficiency and user experience.
+**Escape Plan** is an immersive Windows Form game developed in C# that highlights advanced Object-Oriented Programming (OOP) techniques, including Interfaces, the Singleton pattern, and Enumerations. Player controls a dynamic character navigating the battlefield of tanks and bullets. The goal is to dodge incoming tanks, evade gunfire, and counterattack to emerge winner.
 
 ## Table of Contents
 - [Features](#features)
@@ -12,17 +12,11 @@
 - [License](#license)
 
 ## Features
-- **Admin Capabilities**: 
-  - Add, remove, and view student records.
-  - Update student class marks, attendance, and fee status.
-  - Change admin password for secure access.
-  
-- **Student Access**: 
-  - View class subjects, marks, attendance, and fee status.
-  
-- **User Management**: Distinct roles for Admin and Student to ensure proper access control.
-- **Data Management**: Efficient handling of student data for improved organizational efficiency.
-
+- **Dynamic Character Control**: Players navigate a character through a challenging battlefield.
+- **Advanced OOP Concepts**: Utilizes Interfaces, the Singleton pattern, and Enumerations for a robust code structure.
+- **Tank and Bullet Mechanics**: Engage in combat against tanks while avoiding incoming fire.
+- **Precision Shooting**: Players can retaliate with accurate shots to defeat enemies.
+- **Challenging Gameplay**: Experience thrilling challenges that test reflexes and strategy.
 
 ## Screenshots
 ![Screenshot](assets/1.PNG)
@@ -31,20 +25,20 @@
 
 ## Usage
 1. Clone the repository:
-   `git clone https://github.com/miansaadtahir/StudentManagementSystem.git`
+   `git clone https://github.com/miansaadtahir/EscapePlan.git`
 2. Navigate to the project directory:
-   `cd StudentManagementSystem`
-3. Launch the `StudentManagementSystem.exe` file.
+   `cd EscapePlan/ Consumer/ bin/ Debug/`
+3. Launch the `Consumer.exe` file.
 
 ## Documentation
 For a detailed overview of the gameplay mechanics and features, refer to the [Documentation](./documentation) in the repository.
 
 ## Technologies Used
-- C++
+- C#
 
 ## Contributing
 Contributions, issues, and feature requests are welcome!  
-Feel free to check out the [issues page](https://github.com/miansaadtahir/StudentManagementSystem/issues) for more information.
+Feel free to check out the [issues page](https://github.com/miansaadtahir/EscapePlan/issues) for more information.
 
 ## License
 Distributed under the MIT License. See [LICENSE](./LICENSE) for more details.
