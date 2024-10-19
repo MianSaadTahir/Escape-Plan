@@ -12,11 +12,10 @@
 - [License](#license)
 
 ## Features
+- **Modular Design with DLL Framework**: he backend logic of the game is developed as a separate DLL framework, making it highly reusable and adaptable to any game frontend UI.
 - **Dynamic Character Control**: Players navigate a character through a challenging battlefield.
 - **Advanced OOP Concepts**: Utilizes Interfaces, the Singleton pattern, and Enumerations for a robust code structure.
 - **Tank and Bullet Mechanics**: Engage in combat against tanks while avoiding incoming fire.
-- **Precision Shooting**: Players can retaliate with accurate shots to defeat enemies.
-- **Challenging Gameplay**: Experience thrilling challenges that test reflexes and strategy.
 
 ## Screenshots
 ![Screenshot](assets/1.PNG)
