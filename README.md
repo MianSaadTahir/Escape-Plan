@@ -25,10 +25,9 @@
 
 
 ## Screenshots
-![Screenshot](assets/1.png)
-![Screenshot](assets/2.png)
-![Screenshot](assets/3.png)
-![Screenshot](assets/4.png)
+![Screenshot](assets/1.PNG)
+![Screenshot](assets/2.PNG)
+![Screenshot](assets/3.PNG)
 
 ## Usage
 1. Clone the repository:
