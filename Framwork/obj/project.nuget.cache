@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0fcpLbjSoWsYtY2wPYzKcz3nkc4A7QSZM6ynNo5BItKKhj/vnjQLllkwQXi5Hu6E1k0GyNFg19u6okm4HcPXpQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tahir\\OneDrive\\Desktop\\Sem2\\OOP\\semProject\\EscapePlan\\Framwork\\Framwork.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tahir\\.nuget\\packages\\ezinput\\1.3.2\\ezinput.1.3.2.nupkg.sha512"
+  ],
+  "logs": []
+}
