@@ -33,6 +33,7 @@ For a detailed overview of the gameplay mechanics and features, refer to the [Do
 
 ## Technologies Used
 - C#
+- Windows Forms
 
 ## Contributing
 Contributions, issues, and feature requests are welcome!  
