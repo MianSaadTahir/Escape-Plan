@@ -13,14 +13,15 @@
 
 ## Features
 - **Modular Design DLL Framework**: Backend logic of the game developed as a separate DLL framework, making it adaptable to other games frontend UI.
-- **Dynamic Character Control**: Players navigate a character through a challenging battlefield.
 - **Advanced OOP Concepts**: Utilizes Interfaces, the Singleton pattern, and Enumerations for a robust code structure.
+- **Dynamic Character Control**: Players navigate a character through a challenging battlefield.
 - **Tank and Bullet Mechanics**: Engage in combat against tanks while avoiding incoming fire.
 
 ## Screenshots
 <img src="assets/1.PNG" alt="Screenshot" width="75%">
 <img src="assets/2.PNG" alt="Screenshot" width="75%">
 <img src="assets/3.PNG" alt="Screenshot" width="75%">
+
 ## Usage
 1. Clone the repository:
    `git clone https://github.com/miansaadtahir/EscapePlan.git`
