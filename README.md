@@ -9,7 +9,6 @@
 - [Documentation](#documentation)
 - [Technologies Used](#technologies-used)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 - **Modular Design DLL Framework**: Backend logic of the game developed as a separate DLL framework, making it adaptable to other games frontend UI.
