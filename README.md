@@ -11,10 +11,10 @@ An immersive Windows Form game developed in C# that highlights advanced Object-O
 - [Contributing](#contributing)
 
 ## Features
-- Backend logic of the game developed as a separate DLL framework, making it adaptable to other games frontend UI.
-- Utilizes Interfaces, the Singleton pattern, and Enumerations for a robust code structure.
-- Players navigate a character through a challenging battlefield.
-- Engage in combat against tanks while avoiding incoming fire.
+- Backend logic of the game developed as a separate DLL framework, making it adaptable to other games frontend UI
+- Utilizes Interfaces, the Singleton pattern, and Enumerations for a robust code structure
+- Players navigate a character through a challenging battlefield
+- Engage in combat against tanks while avoiding incoming fire
 
 ## Screenshots
 <img src="assets/1.PNG" alt="Screenshot" width="75%">
@@ -28,12 +28,13 @@ For a detailed overview of the gameplay mechanics and features, refer to the [Do
 ## Technologies Used
 - C#
 - Windows Forms
+
 ## Usage
 1. Clone the repository:
    `git clone https://github.com/miansaadtahir/EscapePlan.git`
 2. Navigate to the project directory:
    `cd .\Consumer\bin\Debug\`
-3. Launch the `Consumer.exe` file.
+3. Launch the `Consumer.exe` file
 
 ## Contributing
 Contributions, issues, and feature requests are welcome!  
