@@ -11,7 +11,7 @@ An immersive Windows Form game developed in C# that highlights advanced Object-O
 - [Contributing](#contributing)
 
 ## Features
-- Backend logic of the game developed as a separate DLL framework, making it adaptable to other games frontend UI
+- Backend logic of the game developed as a separate DLL framework, making it adaptable to build frontend UI for other games as well
 - Utilizes Interfaces, the Singleton pattern, and Enumerations for a robust code structure
 - Players navigate a character through a challenging battlefield
 - Engage in combat against tanks while avoiding incoming fire
