@@ -9,7 +9,7 @@ An immersive Windows Form game developed in C# that highlights advanced Object-O
 - [Technologies Used](#technologies-used)
 - [Usage](#usage)
 - [Contributing](#contributing)
-
+- [License](#license)
 ## Features
 - Backend logic of the game developed as a separate DLL framework, making it adaptable to build frontend UI for other games as well
 - Utilizes Interfaces, the Singleton pattern, and Enumerations for a robust code structure
@@ -39,3 +39,7 @@ For a detailed overview of the gameplay mechanics and features, refer to the [Do
 ## Contributing
 Contributions, issues, and feature requests are welcome!  
 Feel free to check out the [issues page](https://github.com/miansaadtahir/EscapePlan/issues) for more information.
+
+## License
+
+This project is open source and available under the MIT [License](https://github.com/MianSaadTahir/Escape-Plan/blob/main/LICENSE).
